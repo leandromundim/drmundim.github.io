@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Leandro R. Mundim"
-resume_title:                   "Estudante"
+resume_title:                   "estudante"
 resume_contact_email:
   "leandroresendemundim@gmail.com"
 
@@ -37,8 +37,8 @@ resume_social_links:
   resume_github_url:            "https://github.com/drmundim"
   #resume_twitter_url:           "http://twitter.com/jglovier"
   #resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_facebook_url:          "https://www.facebook.com/leandro.lnp7"
+  resume_linkedin_url:          "https://br.linkedin.com/in/leandro-r-mundim-13937773"
   # resume_instagram_url:         "insert your Instagram URL here"
   #resume_website_url:           "http://joelglovier.com"
 
