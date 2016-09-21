@@ -40,7 +40,7 @@ resume_social_links:
   resume_facebook_url:          "https://www.facebook.com/leandro.lnp7"
   resume_linkedin_url:          "https://br.linkedin.com/in/leandro-r-mundim-13937773"
   # resume_instagram_url:         "insert your Instagram URL here"
-  #resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://drmundim.github.io/blog"
 
 # Design settings
 resume_theme:                   default
